@@ -1,0 +1,10 @@
+Name
+
+index
+CatName
+snake_case
+lazyDog
+quick_Fox - does not satisfy style guidelines
+1stCharacter - does not satisfy style guidelines
+operand2
+BIG_NUMBER

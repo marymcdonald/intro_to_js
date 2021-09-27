@@ -1,0 +1,10 @@
+Name
+
+index - yes
+CatName – no, begins with capital letter (Pascal case is for constructors)
+snake_case - yes
+lazyDog - yes 
+quick_Fox – no, combines snake case with camelCase?
+1stCharacter – no, begins with a number
+operand2 - yes
+BIG_NUMBER – no, screaming snake case  is for *magic numbers*

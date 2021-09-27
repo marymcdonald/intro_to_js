@@ -1,0 +1,5 @@
+substring - [String] prototype 
+create - [Object.create] static
+fromCharCode - [String.fromCharCode] static
+slice - [Array/String] prototype
+toString - [Object/Array/String/Number] prototype
